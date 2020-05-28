@@ -1,2 +1,2 @@
 # IKT590
-Simulator: https://www.dropbox.com/sh/y4aqlu0089avsyw/AACUIs1WvpUD59P9XScHNX1pa?dl=0
+Simulator: https://drive.google.com/drive/folders/1VsMPR2ftt71dSfiMr2tu8aYmYMJHm8CA?usp=sharing
